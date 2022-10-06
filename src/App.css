@@ -1,0 +1,111 @@
+.main{
+  background-color: #23252C;
+  height:100vh;
+  font-family: Inter, sans-serif;
+}
+
+.card{
+  margin: 5em 40%;
+  width:20rem;
+  position: absolute;
+  background-color:#1A1B21 ;
+
+}
+
+.title_position img{
+  width:317px;
+
+}
+
+.title_position h2{
+  margin-left:90px;
+  color:white;
+  font-size: 25px;
+  margin-bottom: 0px;
+}
+.title_position h4{
+  margin-top:5px;
+  margin-left:110px;
+  color:#F3BF99;
+  font-size: 13px;
+  font-weight: 200;
+  margin-bottom: 0px;
+}
+.title_position p{
+  margin-left: 120px;
+  margin-top: 10px;
+  font-size: 10.5px;
+  color:white;
+  margin-bottom: 10px;
+}
+
+.email{
+  text-decoration: none;
+  background-color: white;
+  border-radius: 4px;
+  padding: 10px 24px 10px 24px;
+  font-size: 15px;
+  color:black;
+}
+
+.email img{
+  position: relative;
+  top: 2px;
+  margin-right: 6px;
+  
+}
+
+.mid-section{
+  margin-left: 40px;
+  margin-right: 42px;
+  color:white
+}
+
+.mid-section h2{
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  
+}
+
+.buttons {
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.mid-section p{
+  margin-top:5px;
+  font-size: 10.6px;
+  line-height: 14px;
+}
+.linkdin {
+  text-decoration: none;
+  background-color: #5093E2;
+  margin-left: 30px;
+  border-radius: 4px;
+  padding: 10px 24px 10px 24px;
+  align-items: center;
+  color:white;
+  font-size: 15px;
+  
+}
+
+.linkdin img{
+  position: relative;
+  top: 2px;
+  margin-right: 6px;
+}
+
+
+footer{
+  background-color: #161619;
+  padding:20px;
+  padding-left: 80px;
+  align-items: center;
+
+}
+
+footer img{
+  margin-right:20px
+}
